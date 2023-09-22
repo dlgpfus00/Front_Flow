@@ -3,7 +3,8 @@
 }
 
 body {
-  background-image: url(/John_Wick/img/jw1.jpeg);
+  background-image: url(/Front_Flow_/John_Wick/img/jw1.jpeg);
+  /* background-image: url(/John_Wick/img/jw1.jpeg); */
   width: 100%;
   /* background-size: cover; */
   background-size: 100% 125%;
